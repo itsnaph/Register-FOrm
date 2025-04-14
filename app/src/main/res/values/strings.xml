@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Register Form</string>
+
+    <array name="countries">
+        <item>Norway</item>
+        <item>Sweden</item>
+        <item>Denmark</item>
+        <item>Finland</item>
+        <item>Iceland</item>
+        <item>Ireland</item>
+        <item>Latvia</item>
+        <item>Lithuania</item>
+        <item>Estonia</item>
+        <item>Russia</item>
+        <item>Poland</item>
+        <item>Slovenia</item>
+        <item>Spain</item>
+        <item>United Kingdom</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>France</item>
+        <item>Greece</item>
+        <item>Turkey</item>
+        <item>Ukraine</item>
+        <item>Czech Republic</item>
+    </array>
+</resources>
